@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+| <img src="https://github-readme-stats.vercel.app/api?username=ENDlezZenith&show_icons=true&theme=transparent&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDlezZenith&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------- | ------------- |
+
 <!--
 **ENDlezZenith/ENDlezZenith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
