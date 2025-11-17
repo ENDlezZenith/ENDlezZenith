@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ENDlezZenith&show_icons=true&theme=transparent&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDlezZenith&layout=compact&theme=transparent&hide_border=true" /> |
+| <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ENDlezZenith&show_icons=true&theme=transparent&hide_border=true"/> | <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDlezZenith&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--
