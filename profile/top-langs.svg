@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="108.33"
+          width="108.32"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="108.33"
+          x="108.32"
           y="0"
-          width="87.04"
+          width="87.03"
           height="8"
           fill="#fcb32c"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="195.37"
+          x="195.35"
           y="0"
-          width="16.94"
+          width="16.95"
           height="8"
           fill="#083fa1"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="212.31"
+          x="212.29999999999998"
           y="0"
-          width="15.75"
+          width="15.77"
           height="8"
           fill="#292929"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.06"
+          x="228.07"
           y="0"
           width="14.23"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.29"
+          x="242.29999999999998"
           y="0"
           width="17.7"
           height="8"
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX 34.82%
+        MDX 34.81%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -212,7 +212,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON 6.30%
+        JSON 6.31%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
