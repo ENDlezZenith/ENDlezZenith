@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michael Zhou's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 109, Total PRs: 9, Total Issues: 170, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 109, Total PRs: 9, Total Issues: 174, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.15794956068706;
+        stroke-dashoffset: 200.13821896337598;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >170</text>
+      >174</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
