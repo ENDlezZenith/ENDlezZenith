@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="129.68"
+          width="129.77"
           height="8"
           fill="#292929"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="129.68"
+          x="129.77"
           y="0"
-          width="106.73"
+          width="106.65"
           height="8"
           fill="#083fa1"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.41000000000003"
+          x="236.42000000000002"
           y="0"
-          width="13.59"
+          width="13.58"
           height="8"
           fill="#cb171e"
         />
@@ -161,21 +161,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON 51.87%
+        JSON 51.91%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown 42.69%
+        Markdown 42.66%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML 5.44%
+        YAML 5.43%
       </text>
     </g>
   </g></g>
