@@ -1,4 +1,4 @@
 # Home Repository
 
-| <img alt="GitHub Stats" src="./profile/stats.svg"/> | <img alt="Most Used Languages" src="./profile/top-langs.svg" /> |
-| --------------------------------------------------- | --------------------------------------------------------------- |
+| ![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=ENDlezZenith&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent) | ![My WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=7de139e6-2c2f-45cd-a9a3-be6210f90320&layout=compact&custom_title=My%20WakaTime%20Stats&langs_count=24&theme=transparent) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
