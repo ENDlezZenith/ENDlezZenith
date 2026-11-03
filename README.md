@@ -1,4 +1,4 @@
 # Home Repository
 
-| ![My GitHub Stats](/profile/stats.svg) | ![My WakaTime Stats](/profile/wakatime.svg) |
+| ![My GitHub Stats](stats.svg) | ![My WakaTime Stats](wakatime.svg) |
 | :------------------------------------: | :-----------------------------------------: |
